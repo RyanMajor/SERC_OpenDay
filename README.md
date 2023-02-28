@@ -1,9 +1,9 @@
-#SERC Open Day Showcase
+# SERC Open Day Showcase
 Each year South Eastern Regional College (SERC) hosts a range of open days where potential applicants are encouraged to asked course related questions while also exploring a showcase of student work.  
 
 While the college has an excellent system in place for staff and applicants to find course specific information such as modular content and course fees the same cannot be said for student showcasing. Staff members within the organisation struggle each year to collate and display the work produced by students. 
 
-##The Solution
+## The Solution
 The repository will hold my web-based solution which will help to ease the preparation and setup times of open days for staff members from the computing department. Ideally this system will: 
 
     - Enable students to upload projects that they have developed throughout their learner journey. 
