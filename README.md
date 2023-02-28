@@ -7,11 +7,7 @@ While the college has an excellent system in place for staff and applicants to f
 The repository will hold my web-based solution which will help to ease the preparation and setup times of open days for staff members from the computing department. Ideally this system will: 
 
     - Enable students to upload projects that they have developed throughout their learner journey. 
-
     - Allow staff to upload projects from past students. 
-
     - Provide potential applicants with the opportunity to explore student projects for better course insights.  
-
     - Provide department managers with the means to display good practice within the department to senior management.  
-
     - Provide students with feedback from their peers for future improvements.  
