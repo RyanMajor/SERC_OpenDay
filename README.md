@@ -14,3 +14,5 @@ The repository will hold my web-based solution which will help to ease the prepa
 
 ## UX Design
 Before developing the application I have used Adobe XD to create a UX design. This design can be reviewed using the following link - https://xd.adobe.com/view/c780c81a-3ca8-4b23-9556-b9b1eac4d79d-92d3/
+
+Feedback would be greatly appreciated and considered throughout the development of this solution. 
